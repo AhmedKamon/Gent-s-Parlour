@@ -1,0 +1,10 @@
+.service-container{
+    background-image: url('../../../images/hair.jpg');
+    background-position: center;
+    margin-left: 10%;
+}
+@media only screen and (max-width: 600px) {
+    .all-services{
+        margin-top: 60%;
+    }
+  }

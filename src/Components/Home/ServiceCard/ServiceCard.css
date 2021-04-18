@@ -1,0 +1,17 @@
+.service-bg{
+    background-color: rgba(122, 116, 116, 0.096);
+}
+.service-img img{
+    cursor: pointer;
+    transition: transform 2s;
+}
+.service-img:hover img {
+    transform: scale(1.2);
+}
+.service-btn{
+    cursor: pointer;
+    transition: transform .9s;
+}
+.service-btn:hover{
+    transform: scale(.9);
+}
